@@ -1,4 +1,8 @@
+# 안전영역
+# https://www.acmicpc.net/problem/2468
+
 from collections import deque
+
 def bfs(si, sj, h):
     q = deque()
 
